@@ -1,0 +1,9 @@
+Have nodes that contain string of chars and integer occurance count
+Have hash set that contains nodes
+Have maxheap that takes nodes
+
+1. put things in hash set
+
+2. put things in max heap, should be sorted here
+
+3. output things
